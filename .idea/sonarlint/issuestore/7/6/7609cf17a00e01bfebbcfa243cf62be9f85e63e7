@@ -1,0 +1,6 @@
+
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ8Œüë‚«-
+`squid:S3518"CMake sure this expression can't be zero before doing this division.(›º<8Œüë‚«-
+dsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(êİÔe
+Wsquid:S1118":Add a private constructor to hide the implicit public one.(êİÔe8Œüë‚«-
